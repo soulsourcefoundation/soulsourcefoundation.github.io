@@ -846,3 +846,8 @@
 			border-radius: 5px;
 			margin: 0;
 		}
+
+p.bigger {
+	font-size: 1.4rem;
+	line-height: 1.5;
+}
