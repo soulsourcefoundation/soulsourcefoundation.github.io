@@ -696,22 +696,17 @@
 
 	#banner
 	{
-		background: #CCE8F4 url('../images/pic01.jpg');
-		background-position: center center;
-		background-size: auto 100%;
+		background: #CCE8F4 url('http://soulsourcefoundation.org/wp-content/uploads/2016/09/womens-empowerment-2016.png');
+		background-position: center 28%;
+		background-size: cover;
 		background-repeat: no-repeat;
 		text-align: center;
 	}
 
-		#banner header
-		{
-			background-color: #252122;
-			background-color: rgba(34,30,31,0.98);
-		}
-
 			#banner header h2
 			{
-				color: #fff;
+				color: #000;
+				font-size: 4rem;
 				font-weight: 700;
 			}
 
