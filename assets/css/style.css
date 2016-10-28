@@ -274,12 +274,12 @@
 
 				header.major h2
 				{
-					background: #fff;
 					position: relative;
 					top: -0.65em;
 					display: inline;
 					margin: 0;
 					padding: 0 1em 0 1em;
+          background-color: #f7f7f7;
 				}
 			.header-img {
 				padding-top: 4em;
@@ -728,6 +728,17 @@
 		background: #ffffff;
 		border-bottom: solid 1px #ccc;
 	}
+
+  .intro-box-wrapper {
+		position: relative;
+    background-color: #f7f7f7;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    border-top: 1px solid #ccc;
+  }
+  .intro-box-wrapper+.intro-box-wrapper {
+    border-top: none;
+  }
 
 	#footer-wrapper
 	{

@@ -55,12 +55,13 @@
       padding: 0 1.75em;
 		}
 		
-			.box .image.featured
-			{
-				left: 1.75em;
-				top: 1.75em;
-				margin: -4.5em 0 4.25em -3.5em;
-			}
+      .box .image.featured
+      {
+        left: 1.75em;
+        top: 1.75em;
+        margin: 0 0 4.25em -3.5em;
+        /*margin: -4.5em 0 4.25em -3.5em;*/
+      }
 
 			.box.post
 			{
@@ -470,3 +471,8 @@
 		{
 			padding: 0.85em 2.25em 0.85em 2.25em;
 		}
+
+
+.homepage .box {
+  padding-top: 0;
+}
