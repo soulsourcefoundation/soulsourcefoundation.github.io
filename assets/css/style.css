@@ -14,7 +14,7 @@
 
 	body
 	{
-		background: #252122;
+		background: #fff;
 		background-image: url('images/bg02.png');
 	}
 
@@ -239,7 +239,7 @@
 		section,
 		article
 		{
-			margin-bottom: 2.5em;
+			margin-bottom: 0;
 		}
 
 			section > :last-child,
@@ -729,38 +729,11 @@
 		border-bottom: solid 1px #ccc;
 	}
 
-	#main-wrapper
-	{
-		position: relative;
-		background: #f7f7f7 url('images/bg02.png');
-	}
-
-		#main-wrapper:before
-		{
-			content: '';
-			position: absolute;
-			top: 0;
-			left: 0;
-			width: 100%;
-			background: url('images/bg01.png');
-			background-size: 100% 100%;
-			z-index: 0;
-			opacity: 0.1;
-		}
-
-		#main-wrapper .major
-		{
-		}
-
-			#main-wrapper .major h2
-			{
-				background: #f7f7f7 url('images/bg02.png');
-			}
-
 	#footer-wrapper
 	{
 		position: relative;
 		color: #858484;
+    background-color: #252122;
 	}
 
 		#footer-wrapper:before
@@ -850,4 +823,11 @@
 p.bigger {
 	font-size: 1.4rem;
 	line-height: 1.5;
+}
+
+.box.post {
+    padding-top: 3em;
+    padding-bottom: 3em;
+    margin: 0 auto;
+    max-width: 1100px;
 }

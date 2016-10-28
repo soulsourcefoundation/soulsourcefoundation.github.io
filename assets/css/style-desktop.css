@@ -10,7 +10,7 @@
 
 	body,input,textarea,select
 	{
-		font-size: 13pt;
+		font-size: 11pt;
 		line-height: 1.75em;
 	}
 	
@@ -51,7 +51,8 @@
 
 		.box
 		{
-			padding: 2.75em 1.75em 2.75em 1.75em;
+			/*padding: 2.75em 1.75em 2.75em 1.75em;*/
+      padding: 0 1.75em;
 		}
 		
 			.box .image.featured
@@ -70,10 +71,18 @@
 					padding-top: 1em;
 					margin: 0 0 2em 0;
 				}
-			
+		
+				.box.post h1
+				{
+					font-size: 3em;
+					margin: 0 0 0.5em 0;
+					letter-spacing: -0.015em;
+				}
+
 				.box.post h2
 				{
 					font-size: 2.5em;
+					margin: 0 0 0.5em 0;
 					letter-spacing: -0.015em;
 				}
 				
@@ -155,13 +164,9 @@
 
 	#header-wrapper
 	{
-		padding: 4.5em 0 4em 0;
+		padding: 2.5em 0 3em 0;
 	}
 
-	#main-wrapper
-	{
-		padding: 4em 0 4em 0;
-	}
 
 	#footer-wrapper
 	{
@@ -339,7 +344,6 @@
 	{
 		position: relative;
 		padding: 8em 0;
-		margin: 4em 0 0 0;
 	}
 	
 		#banner header
@@ -387,7 +391,7 @@
 	
 		#intro section
 		{
-			margin: 3em 0;
+			margin: 1em 0;
 			padding: 2.5em 0;
 		}
 
