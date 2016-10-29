@@ -12,6 +12,7 @@ body,input,textarea,select {
 }
 h1,h2,h3,h4,h5,h6 {
   font-weight: 600;
+  color: #252122;
 }
 
 /* Header */
@@ -21,7 +22,6 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #header h1 {
-  color: #252122;
   font-weight: 900;
   font-size: 4rem;
   letter-spacing: -0.035em;
@@ -112,6 +112,39 @@ h1,h2,h3,h4,h5,h6 {
   font-size: 2rem;
 }
 
+.landing-highlights {
+  margin-bottom: 6rem;
+  margin-top: 6rem;
+  text-align: center;
+}
+.landing-highlights h2 {
+  font-size: 2.25rem;
+  font-weight: 900;
+}
+.shadow-box:before {
+  content: '';
+  width: 32px;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: block;
+  z-index: -1;
+  box-shadow: 32px 0 0 0 #fff, 0 -32px 0 0 #fff, 0 32px 0 0 #fff, 32px 32px 0 0 #fff, 32px -32px 0 0 #fff, 0 0 32px 0 rgba(0, 0, 0, 0.15);
+}
+
+.shadow-box:after {
+  content: '';
+  width: 32px;
+  height: 100%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  display: block;
+  z-index: -1;
+  box-shadow: -32px 0 0 0 #fff, 0 -32px 0 0 #fff, 0 32px 0 0 #fff, -32px 32px 0 0 #fff, -32px -32px 0 0 #fff, 0 0 32px 0 rgba(0, 0, 0, 0.15);
+}
+}
 /* Main wrapper */
 #main-wrapper {
   padding-bottom: 4rem;
