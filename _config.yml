@@ -1,3 +1,6 @@
-name: DopeTrope
-description: DopeTrope template for Jekyll
+name: SoulSource
+description: SoulSource template/site.
 paginate: 10
+
+collections:
+- programs
