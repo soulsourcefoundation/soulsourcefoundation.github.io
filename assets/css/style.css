@@ -20,7 +20,7 @@ h1,h2,h3,h4,h5,h6 {
   padding-top: 1rem;
   text-align: center;
 }
-
+ 
 #header h1 {
   font-weight: 900;
   font-size: 4rem;
@@ -73,13 +73,16 @@ h1,h2,h3,h4,h5,h6 {
   color: #e7e7e7;
   background-color: #252122;
 }
+.label {
+  font-size: 100%;
+}
 
 /* Landing page */
 .landing-section h1 {
   text-align: center;
   text-transform: uppercase;
   font-size: 2rem;
-  margin: 0 0 3rem 0;
+  margin: 0 0 1rem 0;
   position:relative;
 }
 .landing-section h1:before {
@@ -102,9 +105,11 @@ h1,h2,h3,h4,h5,h6 {
   background: #fff;
   color: #E61719;
   font-size: 20px;
+  font-style: italic;
   padding: 0 10px;
   position: relative;
   z-index: 1;
+  font-weight: inherit;
 }
 .landing-section section {
   margin-bottom: 4rem;
