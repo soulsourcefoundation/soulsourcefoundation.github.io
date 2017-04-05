@@ -57,8 +57,8 @@ h1,h2,h3,h4,h5,h6 {
 
 
 /* Banner */
-#banner {
-  background: #CCE8F4 url('http://soulsourcefoundation.org/wp-content/uploads/2016/09/womens-empowerment-2016.png');
+#banner head image{
+  background: #CCE8F4 url('/assets/image.png');
   background-position: center 28%;
   background-size: cover;
   background-repeat: no-repeat;
