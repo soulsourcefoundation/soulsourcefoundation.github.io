@@ -7,14 +7,11 @@ Soul Source is active in promoting the empowerment and education of women and gi
 
 ## Empowerment Programs
 
-Soul Source is committed to supporting Empowerment for women, girls and families.<br/>
-Holistic and Financial Empowerment is done through women’s self-help groups. Youth empowerment is done through training in schools and Girls Clubs with mentors. Young women and men receive secondary school scholarship and reproductive health education at Kamasengre Mixed Secondary School. One young woman each year from KMSS receives assistance to pursue the degree of her choice in a Kenyan University. Nursery school students receive nourishing breakfast each morning at two different schools.<br/>
-
+Soul Source is committed to supporting Empowerment for women, girls and families. Holistic and Financial Empowerment is done through women’s self-help groups. Youth empowerment is done through training in schools and Girls Clubs with mentors. Young women and men receive secondary school scholarship and reproductive health education at Kamasengre Mixed Secondary School. One young woman each year from KMSS receives assistance to pursue the degree of her choice in a Kenyan University. Nursery school students receive nourishing breakfast each morning at two different schools.<br/>
 
 ### Holistic Empowerment
 
 Holistic Empowerment is done in conjunction with financial empowerment as a part of a four day workshop model developed by David Gershon and Gail Straub of the Empowerment Institute. This  includes The seven areas of life and supporting Community relationships: Mental/learning/personal development, Vocational/career/business, Financial, Family, Social, Physical, Spiritual.<br/>
-
 
 ### Financial Empowerment
 
@@ -26,14 +23,14 @@ Financial empowerment is done in conjunction with the holistic empowerment works
 ### Youth Empowerment
 
 Youth mentors help develop youth groups that empower young men and women to stay committed to education. Young women receive access to necessary resources and relationships that help them through puberty. This support and guidance helps youth to build the strength and wisdom to address various situations and challenges. <br/>
-KMSS scholarship students receive empowerment training through a brief workshop model annually to encourage their development as students and community members.
-In the Girls Clubs, girls meet weekly to play games, sing songs, and support one another along with their mentor.<br/>
-
+<br/>
+KMSS scholarship students receive empowerment training through a brief workshop model annually to encourage their development as students and community members. In the Girls Clubs, girls meet weekly to play games, sing songs, and support one another along with their mentor.<br/>
+<br/>
 
 
 ## Education Programs
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Soul Source Foundation believes that part of empowerment within communities, lies within access to comprehensive education. Young women and men receive secondary school scholarship and reproductive health education at Kamasengre Mixed Secondary School. Additionally, each year a young woman from KMSS receives assistance to pursue the degree of her choice in a Kenyan University. Finally, nursery school students receive nourishing breakfast each morning at two different schools.<br/>
 
 ### Health and Nutrition
 
@@ -41,11 +38,13 @@ Soul Source is a strong believer in taking care of the body so the growth of the
 
 ### Secondary Scholarship
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Operation My People scholarship program is our program that identifies secondary school students with academic promise and economic need to receive a 3/4 scholarship which aims to empower young girls to stay in school through their secondary education and potentially impact the poverty cycle that is part of their community history.<br/>
+<br/>
+It provides a steady stream of support to the Kamasengre Mixed Secondary School to offset unpaid school fees ensuring the school’s performance as a whole is not jeopardized and improving teacher retention. In this way, not only the 40 sponsored students are affected, but all students enrolled benefit from the stability which the sponsorships help provide. As the school continues to improve, it becomes increasingly eligible for more public funding and the community prospers as well. Recently, the school enrollment has double per request of the government.<br/>
 
 ### Post-Secondary Scholarships
 
-Post secondary educational support enable partnerships with two young women who are following their dreams of earning a Bachelor’s degree in Nursing and English Literature. We are actively pursuing partnerships for scholarships of other interested students by connecting them with other opportunities for academic support.
-
+Post secondary educational support enable partnerships with two young women who are following their dreams of earning a Bachelor’s degree in Nursing and English Literature. We are actively pursuing partnerships for scholarships of other interested students by connecting them with other opportunities for academic support.<br/>
+<br/>
 In recent years Soul Source has begun working with local school and community leaders to identify students whose success in secondary school has created opportunities to pursue further education at college, university, or vocational programs.  Once identified we help finance next steps in their career development with scholarships that cover tuition and fees.  Currently students participating in this program are seeking to become nurses, teachers and other professions that will have a transformative impact on their communities.<br/>
 <br/>
