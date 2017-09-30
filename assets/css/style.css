@@ -166,3 +166,7 @@ h1,h2,h3,h4,h5,h6 {
 #main-wrapper {
   padding-bottom: 4rem;
 }
+
+h3 {
+  text-align: center;
+}
