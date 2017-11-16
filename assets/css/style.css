@@ -187,3 +187,19 @@ img {
   text-align: center;
   display: inline-block;
 }
+
+img.bio {
+  float: left;
+  max-width: 140px;
+  margin-right: 14px;
+}
+
+hr.clear {
+  border: none;
+  display: table;
+  clear: both;
+}
+
+hr.clear {
+  content: "";
+}
