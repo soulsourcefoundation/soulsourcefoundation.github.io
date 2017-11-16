@@ -35,7 +35,7 @@ Marren is a married mother of four adult children. She is a retired teacher and 
 
 <img class="bio" src="/assets/images/staff/thumb-isabella-cropped.jpg"/>
 
-Isabella is married with eight children. She is a retired school bursar and chairperson of Godjope Dispensary. She is the teasurer for the Karanda Self Help Goup, the Sanja Women Group, Godjope Women SACCO and Godjope Primary School.  Isabella is a trained Table Bank Trainer and has a passion for women and vulnerable children.
+Isabella is married with eight children. She is a retired school bursar and chairperson of Godjope Dispensary. She is the treasurer for the Karanda Self Help Group, the Sanja Women Group, Godjope Women SACCO and Godjope Primary School.  Isabella is a trained Table Bank Trainer and has a passion for women and vulnerable children.
 
 <hr class="clear"/>
 
@@ -45,9 +45,20 @@ Isabella is married with eight children. She is a retired school bursar and chai
 
 Millicent was raised in a very humble family in Muhuru Bay at the shores of Lake Victoria in present day Migori County. She went to a public primary school at the age of 7 and proceeded to secondary school at 15. Later she studied Agriculture and Technology at Jomo Kenyatta University on the outskirts of Nairobi, where I graduated with Bachelor of Science (Botany and Zoology) degree in 1999. Thereafter, Millicent earned her  Post Graduate Diploma in Education (PGDE) at Kenyatta University in 2004.
 
-Millicent is also the wife of one husband, a mother of one beautiful daughter and three handsome sons. She has  worked as a Teacher, a Trainer, a Credit Officer, a Senior Programe Officer and now, a founder of a CBO known as Community Platform for Empowerment and Development (COPED). She is also an Assistant Trainer for Sanja CBO and ESVAK Community Development Initiatives.
+Millicent is also the wife of one husband, a mother of one beautiful daughter and three handsome sons. She has  worked as a Teacher, a Trainer, a Credit Officer, a Senior Programme Officer and now, a founder of a CBO known as Community Platform for Empowerment and Development (COPED). She is also an Assistant Trainer for Sanja CBO and ESVAK Community Development Initiatives.
 
 <hr class="clear"/>
+
+#### Felgone Yunia Onyango
+
+<img class="bio" src="/assets/images/staff/thumb-felgone-cropped.jpg"/>
+
+Felgone is a married mother of 8 children. She started her career as a teacher in 1983 after completing her program at Meru College. She was promoted in 2004, and continues to teach up to now.
+
+Currently, Felgone is training as an apprentice Women Empowerment trainer since 2015 under the mentorship of Marren Ojode. She has also been trained in various fields by different organizations. Her various experiences as a Board member of Wandiji Secondary school, Board member of Ndhuru dispensary and Waiga Vocational training centre have helped to shape her as a leader and respected member of her community. She continues to empower women to form groups which can be helpful by uplifting their standards of living.
+
+<hr class="clear"/>
+
 
 ### US Board Members
 
