@@ -55,6 +55,12 @@ h1,h2,h3,h4,h5,h6 {
   width: 270px;
 }
 
+#how-soul-source-spent-money-in-2017 {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+
 
 /* Banner */
 #banner head image{
@@ -73,6 +79,7 @@ h1,h2,h3,h4,h5,h6 {
   color: #e7e7e7;
   background-color: #252122;
   padding-top: 20px;
+  margin-top: 6rem;
 }
 .label {
   font-size: 100%;
@@ -172,5 +179,11 @@ h3 {
   margin-top: 3em;
 }
 h4 {
-  margin-top: 3em;
+  margin-top: 3rem;
+}
+
+img {
+  max-width: 80%;
+  text-align: center;
+  display: inline-block;
 }

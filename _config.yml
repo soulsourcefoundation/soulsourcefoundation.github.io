@@ -1,6 +1,5 @@
 name: Soul Source
 description: Soul Source template/site.
-paginate: 10
 
 collections:
 - programs
