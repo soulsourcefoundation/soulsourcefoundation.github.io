@@ -207,3 +207,11 @@ hr.clear {
 hr.clear {
   content: "";
 }
+
+@media screen and (max-width: 992px) {
+  .nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 5px;
+  }
+}
