@@ -88,4 +88,6 @@ Peter is a pastor in Madison, WI.  He's got three degrees from North Park Univer
 
 #### Matt Peterson - Fundraiser
 
+<img class="bio" src="/assets/images/staff/thumb-matt-cropped.jpg"/>
+
 Matt is a carpenter living in St. Paul who loves the outdoors and traveling He is a fundraiser for SS and frequent visitor to Rusinga. He enjoys the northwoods and his family, especially at the same time.
