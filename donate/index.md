@@ -5,7 +5,7 @@ layout: default
 
 # Donate to Soul Source Foundation<br/>
 <br/>
-It’s easy to make a donation to the Soul Source Foundation – either online through PayPal, GiveMN, or by mail. We are a 501(c)(3) so donations are tax-deductible to the extent allowed by law.
+It’s easy to make a donation to the Soul Source Foundation – either online through PayPal, GiveMN, or by mail. We are a 501(c)(3), so donations are tax-deductible to the extent allowed by law.
 
 To assure your privacy, PayPal does not forward credit card or address information to us. Please include your address in the “donor notes” section of the PayPal form. If your gift is in honor or memory of a loved one, please also use the “donor notes” section to let us know where to send an acknowledgement card.
 
