@@ -7,7 +7,7 @@ layout: default
 
 Since its inception, the focus of the Soul Source Foundation has remained on women and girls and specifically in western Kenya in the Lake Victoria, Rusinga Island area through education and empowerment.
 
-In 2008, the Soul Source Foundation was created by a group of seven people in memory of <b>Rev. Carleton Peterson</b>. This group (<b>Dr. Elaine R. Millam</b>, <b>Dr. Theodora Ayot</b>, <b>Dennis Coyne</b>, <b>Eileen Page</b>, <b>Judy Peterson</b>, <b>Naomi Tutu</b>, and <b>Tom VerDoorn</b>) was inspired by Peterson's LLC. 
+In 2008, the Soul Source Foundation was created by a group of seven people in memory of **Rev. Carleton Peterson**. This group (<b>Dr. Elaine R. Millam</b>, <b>Dr. Theodora Ayot</b>, <b>Dennis Coyne</b>, <b>Eileen Page</b>, <b>Judy Peterson</b>, <b>Naomi Tutu</b>, and <b>Tom VerDoorn</b>) was inspired by Peterson's LLC. 
 
 The intent in creating the Soul Source Foundation, was to continue the mission of Sole Source, LLC by supporting women’s empowerment strategies and programs in African communities as well as other countries or communities where women were in need of education, training and other opportunities. The goal of was to provide services that included micro-lending, spiritual retreats, empowerment training and intentional connections with women trained to offer spiritual, emotional, and financial support. From 2006 to 2010, the work of first Sole Source, LLC and later Soul Source Foundation, focused on supporting women’s empowerment groups in Kenya and South Africa, which was largely due to the friendship formed with North Park University professor Dr. Theodora Ayot whose home is Rusinga Island.
 
