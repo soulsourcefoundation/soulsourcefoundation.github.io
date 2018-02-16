@@ -3,10 +3,11 @@ title: University Students
 featured: /assets/images/pic02.jpg
 layout: post
 ---
+# University Students
 
-<img class="bio" src="/assets/images/Evelyne Graduation.jpg"/>
-<p>Evelyn Ogweno grew up in Kamasengre and is one of twelve children with happy parents and loves her community because the members are always humble and everybody is concerned with his or her business.  She attended Kamasengre Mixed Secondary School where she was an OMP scholarship recipient. Evelyn went on to attend Homa Bay KMTC and graduated in December 2017 with a dipolma in Nursing.  “I just want to say thank you for your good support, mentoring me to be a respected person in the community and my family is proud of me too.” 
-</p>
+<img class="bio" src="/assets/images/Evelyne Graduation.jpg"/> 
+<p>Evelyn Ogweno grew up in Kamasengre and is one of twelve children with happy parents and loves her community because the members are always humble and everybody is concerned with his or her business.  She attended Kamasengre Mixed Secondary School where she was an OMP scholarship recipient. Evelyn went on to attend Homa Bay KMTC and graduated in December 2017 with a dipolma in Nursing.  “I just want to say thank you for your good support, mentoring me to be a respected person in the community and my family is proud of me too.” </p> 
+
 
 <p>Rebecca Ochola is the third born in a family of five children and completed her form four at Kamasengre Secondary School in the year 2011.
 She is currently in her third year at Maseno University and is pursuing a degree in Education Arts, studying English and Literature and  looks forward to being a teacher.
@@ -14,7 +15,7 @@ She is currently in her third year at Maseno University and is pursuing a degree
 </p>
 
 <img class="bio" src="/assets/images/1461761033573.jpg"/>
-<p> Aileen Audrey grew up on Rusinga Island with her mom and younger brother.  She was an OMP scholarship student at Kamasengre Mixed Secondary School and completed her form four in 2013. Aileen worked with a theater company for several years and then early in 2017 was admitted to Maseno University and is currently earning a degree in Bachelor of Arts in Textile; Apparel Design and Fashion Merchandising with IT. Aileen said,  “I and am grateful to be doing the course I admire and wish to be a fashion designer after my studies.”</p>
+<p>Aileen Audrey grew up on Rusinga Island with her mom and younger brother.  She was an OMP scholarship student at Kamasengre Mixed Secondary School and completed her form four in 2013. Aileen worked with a theater company for several years and then early in 2017 was admitted to Maseno University and is currently earning a degree in Bachelor of Arts in Textile; Apparel Design and Fashion Merchandising with IT. Aileen said,  “I and am grateful to be doing the course I admire and wish to be a fashion designer after my studies.”</p>
 
 <img class="bio" src="/assets/images/Eunice Auma.jpg"/>
 <p>Eunice Auma Otieno, was an OMP scholarship student at Kamasengre Mixed Secondary School from 2012-2015  completing form four at the top of her class.
