@@ -11,7 +11,7 @@ layout: post
 
 <hr class="clear"/>
 
-<img class="bio" src=" /assets/images/Rebecca.jpg"/>
+<img class="bio" src="/assets/images/Rebecca.jpg"/>
 <p>Rebecca Ochola is the third born in a family of five children and completed her form four at Kamasengre Secondary School in the year 2011.
 She is currently in her third year at Maseno University and is pursuing a degree in Education Arts, studying English and Literature and  looks forward to being a teacher.
 “I take my studies seriously as I want to inspire the young girls in my society to push on in life and take their studies seriously.” Rebecca adds that, “I hope to change the life of others as well by being a good role model especially to girls from my village in Rusinga.”
