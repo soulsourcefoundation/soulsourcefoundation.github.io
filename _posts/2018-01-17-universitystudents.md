@@ -4,7 +4,7 @@ featured: /assets/images/pic02.jpg
 layout: post
 ---
 # University Students
-
+<hr class="clear"/>
 <img class="bio" src="/assets/images/Evelyne Graduation.jpg"/> 
 <p>Evelyn Ogweno grew up in Kamasengre and is one of twelve children with happy parents and loves her community because the members are always humble and everybody is concerned with his or her business.  She attended Kamasengre Mixed Secondary School where she was an OMP scholarship recipient. Evelyn went on to attend Homa Bay KMTC and graduated in December 2017 with a dipolma in Nursing.  “I just want to say thank you for your good support, mentoring me to be a respected person in the community and my family is proud of me too.” </p> 
 <hr class="clear"/>
