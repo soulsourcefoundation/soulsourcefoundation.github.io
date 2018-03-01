@@ -9,6 +9,9 @@ layout: post
 <p>Evelyn Ogweno grew up in Kamasengre and is one of twelve children with happy parents and loves her community because the members are always humble and everybody is concerned with his or her business.  She attended Kamasengre Mixed Secondary School where she was an OMP scholarship recipient. Evelyn went on to attend Homa Bay KMTC and graduated in December 2017 with a dipolma in Nursing.  “I just want to say thank you for your good support, mentoring me to be a respected person in the community and my family is proud of me too.” </p> 
 <hr class="clear"/>
 
+<hr class="clear"/>
+
+<img class="bio" src=" /assets/images/Rebecca.jpg"/>
 <p>Rebecca Ochola is the third born in a family of five children and completed her form four at Kamasengre Secondary School in the year 2011.
 She is currently in her third year at Maseno University and is pursuing a degree in Education Arts, studying English and Literature and  looks forward to being a teacher.
 “I take my studies seriously as I want to inspire the young girls in my society to push on in life and take their studies seriously.” Rebecca adds that, “I hope to change the life of others as well by being a good role model especially to girls from my village in Rusinga.”
