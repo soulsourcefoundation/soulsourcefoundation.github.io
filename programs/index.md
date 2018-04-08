@@ -42,8 +42,10 @@ The Operation My People scholarship program is our program that identifies secon
 
 It provides a steady stream of support to the Kamasengre Mixed Secondary School to offset unpaid school fees ensuring the school’s performance as a whole is not jeopardized and improving teacher retention. In this way, not only the 40 sponsored students are affected, but all students enrolled benefit from the stability which the sponsorships help provide. As the school continues to improve, it becomes increasingly eligible for more public funding and the community prospers as well. Recently, the school enrollment has double per request of the government.
 
-### Post-Secondary Scholarships
+### Postsecondary Scholarships
 
-Post secondary educational support enable partnerships with two young women who are following their dreams of earning a Bachelor’s degree in Nursing and English Literature. We are actively pursuing partnerships for scholarships of other interested students by connecting them with other opportunities for academic support.
+Postsecondary educational support enable partnerships with two young women who are following their dreams of earning a Bachelor’s degree in Nursing and English Literature. We are actively pursuing partnerships for scholarships of other interested students by connecting them with other opportunities for academic support.
 
 In recent years Soul Source has begun working with local school and community leaders to identify students whose success in secondary school has created opportunities to pursue further education at college, university, or vocational programs.  Once identified we help finance next steps in their career development with scholarships that cover tuition and fees.  Currently students participating in this program are seeking to become nurses, teachers and other professions that will have a transformative impact on their communities.
+
+**[Meet our postsecondary students.](../postsecondary-scholarships/)**
