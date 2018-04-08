@@ -3,7 +3,13 @@ title: University Students
 featured: /assets/images/pic02.jpg
 layout: post
 ---
-# Post Secondary Scholarship Students
+
+Postsecondary educational support enable partnerships with two young women who are following their dreams of earning a Bachelor’s degree in Nursing and English Literature. We are actively pursuing partnerships for scholarships of other interested students by connecting them with other opportunities for academic support.
+
+In recent years Soul Source has begun working with local school and community leaders to identify students whose success in secondary school has created opportunities to pursue further education at college, university, or vocational programs.  Once identified we help finance next steps in their career development with scholarships that cover tuition and fees.  Currently students participating in this program are seeking to become nurses, teachers and other professions that will have a transformative impact on their communities.
+
+
+# Postsecondary Scholarship Students
 <hr class="clear"/>
 <img class="bio" src="/assets/images/Evelyne Graduation.jpg"/> 
 <p>Evelyn Ogweno grew up in Kamasengre and is one of twelve children with happy parents and loves her community because the members are always humble and everybody is concerned with his or her business.  She attended Kamasengre Mixed Secondary School where she was an OMP scholarship recipient. Evelyn went on to attend Homa Bay KMTC and graduated in December 2017 with a dipolma in Nursing.  “I just want to say thank you for your good support, mentoring me to be a respected person in the community and my family is proud of me too.” </p> 
