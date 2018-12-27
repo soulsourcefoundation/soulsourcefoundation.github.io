@@ -44,6 +44,6 @@ It provides a steady stream of support to the Kamasengre Mixed Secondary School 
 
 ### Post-Secondary Scholarships
 
-Post secondary educational support enable partnerships with two young women who are following their dreams of earning a Bachelor’s degree in Nursing and English Literature. We are actively pursuing partnerships for scholarships of other interested students by connecting them with other opportunities for academic support.
+Post secondary educational support enable partnerships with six young women who are following their dreams of earning a Bachelor’s degree in Nursing, English Literature, Business, Textile Design and Physical Therapy. We are actively pursuing partnerships for scholarships of other interested students by connecting them with other opportunities for academic support.
 
 In recent years Soul Source has begun working with local school and community leaders to identify students whose success in secondary school has created opportunities to pursue further education at college, university, or vocational programs.  Once identified we help finance next steps in their career development with scholarships that cover tuition and fees.  Currently students participating in this program are seeking to become nurses, teachers and other professions that will have a transformative impact on their communities.
