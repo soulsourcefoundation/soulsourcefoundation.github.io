@@ -38,9 +38,13 @@ Soul Source is a strong believer in taking care of the body so the growth of the
 
 ### Secondary Scholarship
 
-The Operation My People scholarship program is our program that identifies secondary school students with academic promise and economic need to receive a 3/4 scholarship which aims to empower young girls to stay in school through their secondary education and potentially impact the poverty cycle that is part of their community history.
+Until recently Operation My People paid the school fees for students in need to attend secondary school.  Historically, The Operation My People scholarship program is our program that identifies secondary school students with academic promise and economic need to receive a 3/4 scholarship which aims to empower young girls to stay in school through their secondary education and potentially impact the poverty cycle that is part of their community histor As of 2018, all Kenyan public schools are tuition-free. Our partnership with Kamasengre Mixed Secondary School on Rusinga Island is strong and has developed in two ways: 
 
-It provides a steady stream of support to the Kamasengre Mixed Secondary School to offset unpaid school fees ensuring the school’s performance as a whole is not jeopardized and improving teacher retention. In this way, not only the 40 sponsored students are affected, but all students enrolled benefit from the stability which the sponsorships help provide. As the school continues to improve, it becomes increasingly eligible for more public funding and the community prospers as well. Recently, the school enrollment has double per request of the government.
+1) The cost of secondary education is not free. We remain a partner to the needy students, providing uniforms, food, and activity fees for those in our program.  This support allows the yound people to focus on being students.  
+
+2) We are actively investing in the teachers at the school through increasing wages.  The ability to use funds in this way impacts the motivation of the staff and most importantly the retention of teachers. 
+
+OMP provides a steady stream of support to the Kamasengre Mixed Secondary School to offset unpaid school fees ensuring the school’s performance as a whole is not jeopardized and improving teacher retention. In this way, not only the 40 sponsored students are affected, but all students enrolled benefit from the stability which the sponsorships help provide. As the school continues to improve, it becomes increasingly eligible for more public funding and the community prospers as well.
 
 ### Post-Secondary Scholarships
 
