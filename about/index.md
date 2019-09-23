@@ -91,3 +91,11 @@ Peter is a pastor in Madison, WI.  He's got three degrees from North Park Univer
 <img class="bio" src="/assets/images/staff/thumb-matt-cropped.jpg"/>
 
 Matt is a carpenter living in St. Paul who loves the outdoors and traveling He is a fundraiser for SS and frequent visitor to Rusinga. He enjoys the northwoods and his family, especially at the same time.
+
+<hr class="clear"/>
+
+#### Dominique Wilson 
+
+<img class="bio" src="/assets/images/staff/Dominique.jpg"/> 
+
+Mr. Wilson is a Gentleman from Chicago’s Westside. Dominique is an organizational development consultant and joined SSF in Sept of 2018. He supports non-profits and for-profit to enhance their impact. So far, Dominique has supported organizations throughout the US, but also aboard in Europe and Africa. His focus areas include health, education, and social-economic development. Dominique’s core value is to “Be Kind”, He says, “When we are more kind and selfless, the world of opportunity opens up, but we also experience and receive more joy.” Mr. Wilson has a true passion for helping others and impacting lives no matter where he is in the world.
