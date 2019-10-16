@@ -43,7 +43,7 @@ Isabella is married with eight children. She is a retired school bursar and chai
 
 <img class="bio" src="/assets/images/staff/thumb-millicent-cropped.jpg"/>
 
-Millicent was raised in a very humble family in Muhuru Bay at the shores of Lake Victoria in present day Migori County. She went to a public primary school at the age of 7 and proceeded to secondary school at 15. Later she studied Agriculture and Technology at Jomo Kenyatta University on the outskirts of Nairobi, where I graduated with Bachelor of Science (Botany and Zoology) degree in 1999. Thereafter, Millicent earned her  Post Graduate Diploma in Education (PGDE) at Kenyatta University in 2004.
+Millicent was raised in a very humble family in Muhuru Bay at the shores of Lake Victoria in present day Migori County. She went to a public primary school at the age of 7 and proceeded to secondary school at 15. Later she studied Agriculture and Technology at Jomo Kenyatta University on the outskirts of Nairobi, where she graduated with Bachelor of Science (Botany and Zoology) degree in 1999. Thereafter, Millicent earned her  Post Graduate Diploma in Education (PGDE) at Kenyatta University in 2004.
 
 Millicent is also the wife of one husband, a mother of one beautiful daughter and three handsome sons. She has  worked as a Teacher, a Trainer, a Credit Officer, a Senior Programme Officer and now, a founder of a CBO known as Community Platform for Empowerment and Development (COPED). She is also an Assistant Trainer for Sanja CBO and ESVAK Community Development Initiatives.
 
