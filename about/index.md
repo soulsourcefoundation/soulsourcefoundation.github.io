@@ -94,7 +94,7 @@ Matt is a carpenter living in St. Paul who loves the outdoors and traveling He i
 
 <hr class="clear"/>
 
-#### Dominique Wilson 
+#### Dominique Wilson -  Advisor
 
 <img class="bio" src="/assets/images/staff/Dominique.jpg"/> 
 
