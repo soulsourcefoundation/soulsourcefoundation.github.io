@@ -3,15 +3,14 @@ title: About us
 layout: default
 ---
 
-Soul Source is active in promoting the empowerment and education of women and girls in Western Kenya. Active engagement in programming for women's empowerment programs and educational support for young women in secondary school, college and university, and nursery school in communities in the region have become the goals of Soul Source.
 
 ## Empowerment Programs
 
-Soul Source is committed to supporting Empowerment for women, girls and families. Holistic and Financial Empowerment is done through women’s self-help groups. Youth empowerment is done through training in schools and Girls Clubs with mentors. Young women and men receive secondary school scholarship and reproductive health education at Kamasengre Mixed Secondary School. One young woman each year from KMSS receives assistance to pursue the degree of her choice in a Kenyan University. Nursery school students receive nourishing breakfast each morning at two different schools.
+Soul Source is committed to supporting Empowerment for women, youth and families. Holistic and financial empowerment is done through women’s self-help groups. Youth empowerment is done in partnership with KMSS.  Sponsered university students receive a scholarship and one to one mentoring throughout thier college career.
 
 ### Holistic Empowerment
 
-Holistic Empowerment is done in conjunction with financial empowerment as a part of a four day workshop model developed by David Gershon and Gail Straub of the Empowerment Institute. This  includes The seven areas of life and supporting Community relationships: Mental/learning/personal development, Vocational/career/business, Financial, Family, Social, Physical, Spiritual.
+Holistic Empowerment is done in conjunction with financial empowerment as a part of a four day workshop model developed by David Gershon and Gail Straub of the Empowerment Institute. This  includes The seven areas of life and supporting Community relationships: Mental/learning/personal development, Vocational/career/business, Financial, Family, Social, Physical, and Spiritual.
 
 ### Financial Empowerment
 
