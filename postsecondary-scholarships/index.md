@@ -36,7 +36,7 @@ Eunice qualified for a Nursing Course in March 2017  and is currently studying P
 
 <hr class="clear"/>
 
-<img class="bio" src="/assets/images/IMG_20171230_152941 (1).jpg"/>
+<img class="bio" src="/assets/images/Diana_2019.jpg"/>
 <p>Diana Drizela Anyango is nineteen years old and was raised in a single parent family with her mother, little brother and elder sister on Rusinga Island.  Diana was an OMP scholarship student at Kamasengre Mixed Secondary School and now is in her first year at Jaramogi Oginga Odinga University of Science and Technology where she is pursuing a Bachelors in Business Management. 
 Diana shared, “I thank the Soul Source for seeing me through my secondary education upto this level that I’ve reached and I request you and the foundation continue to help and see me pursue my degree.”</p>
 
