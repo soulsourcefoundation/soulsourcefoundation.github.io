@@ -6,7 +6,7 @@ layout: default
 
 ## Empowerment Programs
 
-Soul Source is committed to supporting Empowerment for women, youth and families. Holistic and financial empowerment is done through women’s self-help groups. Youth empowerment is done in partnership with KMSS.  Sponsered university students receive a scholarship and one to one mentoring throughout thier college career.
+Soul Source is committed to supporting Empowerment for women, youth and families. Holistic and financial empowerment is done through women’s self-help groups. Youth empowerment is done in partnership with Kamasengre Mixed Secondary School(KMSS).  Sponsered university students receive a scholarship and one to one mentoring throughout thier college career.
 
 ### Holistic Empowerment
 
@@ -21,23 +21,19 @@ Financial empowerment is part of the holistic empowerment workshop and includes 
 
 ### Youth Empowerment
 
-Youth mentors help develop youth groups that empower young men and women to stay committed to education. Young women receive access to necessary resources and relationships that help them through puberty. This support and guidance helps youth to build the strength and wisdom to address various situations and challenges. 
-
-KMSS scholarship students receive empowerment training through a brief workshop model annually to encourage their development as students and community members. In the Girls Clubs, girls meet weekly to play games, sing songs, and support one another along with their mentor.
-
-
+All KMSS students participate semi-annually in empowerment training workshops that focus on reproductive health as well as academic development in preparation for college and careers.  This support and guidance helps youth to build the strength and wisdom to address various situations and challenges.
 
 ## Education Programs
 
-The Soul Source Foundation believes that part of empowerment within communities, lies within access to comprehensive education. Young women and men receive secondary school scholarship and reproductive health education at Kamasengre Mixed Secondary School. Additionally, each year a young woman from KMSS receives assistance to pursue the degree of her choice in a Kenyan University. Finally, nursery school students receive nourishing breakfast each morning at two different schools.
+The Soul Source Foundation believes that part of empowerment within communities, lies within access to comprehensive education. Operation MY People(OMP) provides young women and men with secondary school scholarships at KMSS.  Through our post-secondary scholarship program we sponsor several young woman who are KMSS alumni to complete university or college.  Sponsored university students receive one-to-one mentoring throughout their college career.  At Mgwanza Kay Nursery School students receive breakfast each morining.
 
-### Health and Nutrition
+### Nutrition
 
-Soul Source is a strong believer in taking care of the body so the growth of the mind can follow. The team in the US and the team in Kenya work closely with one another to figure out what the biggest roadblocks to educational and financial success are and then do their best to address them. Consequently, Soul Source has several programs regarding health and nutrition: a porridge program and providing undergarments and sanitary products. The porridge program has now been extended to two schools. It provides a daily meal to every child in attendance and also provides jobs for local women.  Soul Source also provides sanitary products and undergarmets so girls do not have to miss school and fall behind because of their periods.
+Soul Source is a strong believer in taking care of the body so the growth of the mind can follow. The team in the US and the team in Kenya work closely with one another to figure out what the biggest roadblocks to educational and financial success are and then do their best to address them.  Hundreds of children at Mgwanza Kay Nursery School receive breakfast porridge each day.  It is prepared by local women.  At Kamasengre Mixed Secondary School all OMP sponsored students receive daily lunch at school with their peers. 
 
 ### Secondary Scholarship
 
-The Operation My People scholarship program is our program that identifies secondary school students with academic promise and economic need to receive a 3/4 scholarship which aims to empower young girls to stay in school through their secondary education and potentially impact the poverty cycle that is part of their community history.
+The Operation My People(OMP) scholarship program is our program that identifies secondary school students with academic promise and economic need to receive a 3/4 scholarship which aims to empower young girls to stay in school through their secondary education and potentially impact the poverty cycle that is part of their community history.
 
 It provides a steady stream of support to the Kamasengre Mixed Secondary School to offset unpaid school fees ensuring the school’s performance as a whole is not jeopardized and improving teacher retention. In this way, not only the 40 sponsored students are affected, but all students enrolled benefit from the stability which the sponsorships help provide. As the school continues to improve, it becomes increasingly eligible for more public funding and the community prospers as well. Recently, the school enrollment has double per request of the government.
 
