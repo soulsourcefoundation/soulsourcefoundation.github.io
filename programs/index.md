@@ -14,10 +14,10 @@ Holistic Empowerment is done in conjunction with financial empowerment as a part
 
 ### Financial Empowerment
 
-Financial empowerment is done in conjunction with the holistic empowerment workshop as an educational tool help implement: Entrepreneurship, Table Banking, and  the Merry Go Round.
-- Entrepreneurship is basic techniques that help the members of the community to initiate their own income generating activity.
-- Table banking is a strategy where the groups meet once every month, and lay their contributions, savings, and loan repayments on the table. Then a few members are able to borrow immediately either as long term or short term loan to be repaid under the terms determined by the group.
-- Merry-Go-Round is a savings strategy where the group members bring a small contribution each meeting to donate to the group. One meeting, one group member will take the entire contribution home with her to invest in something she might not be able to save for and pay for on her own such as in important household item or school fees for herself or one of her children. Members take turn receiving this fund so that in the course of 6 months to year, each member while contributing only a small amount, will be able walk away with a large sum she is not expected to pay back expect by continuing to contribute to the regular merry-go-round activity.
+Financial empowerment is part of the holistic empowerment workshop and includes <b>Entrepreneurship Development</b>, <b>Table Banking</b> and <b>Merry-Go-Round</b>.
+- <b>Entrepreneurship Development</b> helps the members to intiate their own incoming generating activity.
+- <b>Table Banking</b> is a strategy where the groups meet once every month, and lay their contributions, savings, and loan repayments on the table. Then a few members are able to borrow immediately either as long term or short term loan to be repaid under the terms determined by the group.
+- <b>Merry-Go-Round</b> is a savings strategy.  Group members contribute a small sum of money at each meeting.  Members alternate receiving the lump sum which she can use to: pay school fees, purchase and expensive household item, or in any way she chooses.  Thus, in the course of 6 months to a year, each member while contributing only a small amount, will be able walk away with a large sum she is not expected to pay back expect by continuing to contribute to the regular merry-go-round activity.
 
 ### Youth Empowerment
 
