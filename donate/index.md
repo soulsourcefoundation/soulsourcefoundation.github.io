@@ -15,7 +15,7 @@ To donate online using via GiveMN <a href="https://www.givemn.org/organization/S
   
 To donate online using Square <a href="https://checkout.square.site/pay/191fc86db2f649ff8eabfc0294b7e63f" target="blank">click here <i class="fa fa-square" aria-hidden="true"></i>.
   
-To donate online useing Cash App <a href="https://cash.app/$SoulSourceFoundationttps://cash.app/$SoulSourceFoundation" target="blank">click here <i class="fa fa-cashapp" aria-hidden="true"></i>  
+To donate online using Cash App <a href="https://cash.app/$SoulSourceFoundationttps://cash.app/$SoulSourceFoundation" target="blank">click here <i class="fa fa-cashapp" aria-hidden="true"></i>  
 
 Or you can do it via mail to the next address:<br/>
 Soul Source Foundation<br/>
