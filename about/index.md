@@ -76,6 +76,12 @@ For nearly a decade Aaron served as the Youth Program Manager at Blackstone Bicy
 
 Gayle serves as the Executive Director of the Soul Source Foundation and has been a board member since 2010. She began her teaching career in Chicago in 2005 and since has taught on Rusinga Island in Kenya, Minneapolis and is now back in Chicago. After spending several months with many subsequent returns to Rusinga Island, she affectionately received the name Nyachula, meaning daughter of the island. Gayle earned a BA in English at North Park University, her teaching license at Northwestern University and recently completed her Masters in English as a Second Language from Hamline University in St. Paul Minnesota. She currently teaches in Chicago, IL, where she loves swimming in lake Michigan, riding her bicycle and being close to family.
 
+#### Nyenemo P. Sanguma - Board Member
+
+
+
+Nyenemo P. Sanguma is the Corporate Giving, and Growth Manager at the Allstate Foundation, where he is responsible for developing and executing Allstate’s philanthropic strategy in communities in Chicago, through corporate giving, including a strategic approach to partnership management with major institutions, nonprofits and associations.  Nyenemo got his master’s degree in International Public Service from DePaul University, and a bachelor’s degree in History and Politics from North Park University. 
+
 <hr class="clear"/>
 
 #### Peter Morris - Treasurer
