@@ -92,7 +92,7 @@ Peter is a pastor in Madison, WI.  He's got three degrees from North Park Univer
 
 <hr class="clear"/>
 
-#### Matt Peterson - Fundraiser
+#### Matt Peterson - Board Member
 
 <img class="bio" src="/assets/images/staff/thumb-matt-cropped.jpg"/>
 
