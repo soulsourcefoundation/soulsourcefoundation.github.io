@@ -3,6 +3,6 @@ title: Transparency
 layout: default
 ---
 
-## How Soul Source spent money in 2019
+## How Soul Source spent money in 2022
 
-![2019 SS Financial Transparency Chart](https://user-images.githubusercontent.com/35118766/70164428-012e8780-1676-11ea-89d6-12721a1f7c4a.png)
+![2022 SS Financial Transparency Chart](https://github.com/soulsourcefoundation/soulsourcefoundation.github.io/blob/master/assets/images/2022%20Spending%20Report%20(1).png)
