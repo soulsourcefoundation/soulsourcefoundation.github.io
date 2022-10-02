@@ -78,14 +78,6 @@ Gayle serves as the Executive Director of the Soul Source Foundation and has bee
 
 <hr class="clear"/>
 
-#### Nyenemo P. Sanguma - Board Member
-
-<img class="bio" src="/assets/images/staff/Sanguma.jpeg"/>
-
-Nyenemo P. Sanguma is the Corporate Giving, and Growth Manager at the Allstate Foundation, where he is responsible for developing and executing Allstate’s philanthropic strategy in communities in Chicago, through corporate giving, including a strategic approach to partnership management with major institutions, nonprofits and associations.  Nyenemo got his master’s degree in International Public Service from DePaul University, and a bachelor’s degree in History and Politics from North Park University. 
-
-<hr class="clear"/>
-
 #### Peter Morris - Treasurer
 
 <img class="bio" src="/assets/images/staff/thumb-peter-cropped.jpg"/>
