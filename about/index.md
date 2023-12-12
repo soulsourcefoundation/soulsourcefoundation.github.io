@@ -91,6 +91,8 @@ Matt is a carpenter living in St. Paul who loves the outdoors and traveling He i
 
 Mr. Wilson is a Gentleman from Chicago’s Westside. Dominique is an organizational development consultant and joined SSF in Sept of 2018. He supports non-profits and for-profit to enhance their impact. So far, Dominique has supported organizations throughout the US, but also abroad in Europe and Africa. His focus areas include health, education, and social-economic development. Dominique’s core value is to “Be Kind”, He says, “When we are more kind and selfless, the world of opportunity opens up, but we also experience and receive more joy.” Mr. Wilson has a true passion for helping others and impacting lives no matter where he is in the world.
 
+<hr class="clear"/>
+
 ## Our History
 
 Since its inception, the focus of the Soul Source Foundation has remained on women and girls and specifically in western Kenya in the Lake Victoria, Rusinga Island area through education and empowerment.
