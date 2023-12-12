@@ -3,22 +3,6 @@ title: About us
 layout: default
 ---
 
-## Our History
-
-Since its inception, the focus of the Soul Source Foundation has remained on women and girls and specifically in western Kenya in the Lake Victoria, Rusinga Island area through education and empowerment.
-
-In 2008, the Soul Source Foundation was created by a group of seven people in memory of **Rev. Carleton Peterson**. This group (<b>Dr. Elaine R. Millam</b>, <b>Dr. Theodora Ayot</b>, <b>Dennis Coyne</b>, <b>Eileen Page</b>, <b>Judy Peterson</b>, <b>Naomi Tutu</b>, and <b>Tom VerDoorn</b>) was inspired by Peterson's LLC. 
-
-The intent in creating the Soul Source Foundation, was to continue the mission of Sole Source, LLC by supporting women’s empowerment strategies and programs in African communities as well as other countries or communities where women were in need of education, training and other opportunities. The goal of was to provide services that included micro-lending, spiritual retreats, empowerment training and intentional connections with women trained to offer spiritual, emotional, and financial support. From 2006 to 2010, the work of first Sole Source, LLC and later Soul Source Foundation, focused on supporting women’s empowerment groups in Kenya and South Africa, which was largely due to the friendship formed with North Park University professor Dr. Theodora Ayot whose home is Rusinga Island.
-
-In 2010, a group of Professor Ayot’s former students took her up on offer to visit her home of Rusinga Island and later initiated the Operation My People secondary scholarship program (OMP). It began at Kamasengre Mixed Secondary School as a way to help ensure the opportunity of a quality education for young girls in the community who wouldn’t otherwise have the resources or support to attend secondary school.
-
-With the inclusion of new board members we made the decision to work specifically in western Kenya in order to maximize our impact and efficiency. Along with the increased focus on preparing trainers to reach groups for Empowerment Training, the OMP scholarship program expanded to support 40 students and has done so each year subsequently.
-
-Several students have gone onto to pursue post-secondary education as a result of having access to an uninterrupted high school education and Soul Source continues to sponsor a new young woman from Rusinga Island each year for her studies in college or University. Already more than 60 students have completed four years of secondary school through the OMP program and 4 have earned degrees or diplomas with our sponsorship.
-
-Already more than 60 students have completed four years of secondary school through the OMP program and 4 have earned degrees or diplomas with our sponsorship.
-
 ## Our Team
 
 ### Kenyan Empowerment Training Team
@@ -62,9 +46,14 @@ Currently, Felgone is training as an apprentice Women Empowerment trainer since 
 
 ### US Board Members
 
+#### Tricia Pushkar
+
+<img class="bio" src="/assets/images/staff/pushkar.jpg"/>
+
+Tricia has been working in the nonprofit sector for 20 years, focused on addressing the root causes of poverty and injustice locally and globally. Most recently, Tricia spent 10 years growing fundraising efforts at World Bicycle Relief to provide bicycle transportation in rural communities in Africa and Colombia. Prior to that, Tricia led advocacy and outreach campaigns for Save the Children focused on increasing US investments in global maternal and child health programs. Tricia has lived and worked in Ghana, and has spent significant time in Western Kenya, but hasn't been to Rusinga yet. In her spare time, Tricia loves supporting progressive political campaigns in Chicago, riding her bike, cooking, and hanging with her kiddo. 
+
 #### Aaron Swanton - Secretary
 
-<img class="bio" src="/assets/images/staff/thumb-aaron-cropped.jpg"/>
 
 For nearly a decade Aaron served as the Youth Program Manager at Blackstone Bicycle Works, a Woodlawn-based non-profit,where he taught young people entrepreneurial and mechanic skills in a safe and positive environment and in the context of a small business. Swanton is an advocate for youth and cycling; doing community outreach, education and pop-up bicycle repair events throughout Chicago neighborhoods  In 2004, Swanton worked as an English and creative writing instructor at  Pollsmoor Prison in Capetown, South Africa. Upon returning to the States, Swanton taught Art at San Miguel Gary Comer Junior High School in Chicago's Austin Community. The son of a Methodist minister and special education teacher, Swanton grew up in Ohio and moved to Chicago in 2000 to attend North Park University where he earned a BA in Africana Studies and studied under Dr. Theodora Ayot.  He has been a member of the Soul Source Foundation since 2015 and had the honor of visiting Kenya in January 2016.
 
@@ -99,3 +88,20 @@ Matt is a carpenter living in St. Paul who loves the outdoors and traveling He i
 <img class="bio" src="/assets/images/staff/Dominique.jpg"/> 
 
 Mr. Wilson is a Gentleman from Chicago’s Westside. Dominique is an organizational development consultant and joined SSF in Sept of 2018. He supports non-profits and for-profit to enhance their impact. So far, Dominique has supported organizations throughout the US, but also abroad in Europe and Africa. His focus areas include health, education, and social-economic development. Dominique’s core value is to “Be Kind”, He says, “When we are more kind and selfless, the world of opportunity opens up, but we also experience and receive more joy.” Mr. Wilson has a true passion for helping others and impacting lives no matter where he is in the world.
+
+## Our History
+
+Since its inception, the focus of the Soul Source Foundation has remained on women and girls and specifically in western Kenya in the Lake Victoria, Rusinga Island area through education and empowerment.
+
+In 2008, the Soul Source Foundation was created by a group of seven people in memory of **Rev. Carleton Peterson**. This group (<b>Dr. Elaine R. Millam</b>, <b>Dr. Theodora Ayot</b>, <b>Dennis Coyne</b>, <b>Eileen Page</b>, <b>Judy Peterson</b>, <b>Naomi Tutu</b>, and <b>Tom VerDoorn</b>) was inspired by Peterson's LLC. 
+
+The intent in creating the Soul Source Foundation, was to continue the mission of Sole Source, LLC by supporting women’s empowerment strategies and programs in African communities as well as other countries or communities where women were in need of education, training and other opportunities. The goal of was to provide services that included micro-lending, spiritual retreats, empowerment training and intentional connections with women trained to offer spiritual, emotional, and financial support. From 2006 to 2010, the work of first Sole Source, LLC and later Soul Source Foundation, focused on supporting women’s empowerment groups in Kenya and South Africa, which was largely due to the friendship formed with North Park University professor Dr. Theodora Ayot whose home is Rusinga Island.
+
+In 2010, a group of Professor Ayot’s former students took her up on offer to visit her home of Rusinga Island and later initiated the Operation My People secondary scholarship program (OMP). It began at Kamasengre Mixed Secondary School as a way to help ensure the opportunity of a quality education for young girls in the community who wouldn’t otherwise have the resources or support to attend secondary school.
+
+With the inclusion of new board members we made the decision to work specifically in western Kenya in order to maximize our impact and efficiency. Along with the increased focus on preparing trainers to reach groups for Empowerment Training, the OMP scholarship program expanded to support 40 students and has done so each year subsequently.
+
+Several students have gone onto to pursue post-secondary education as a result of having access to an uninterrupted high school education and Soul Source continues to sponsor a new young woman from Rusinga Island each year for her studies in college or University. Already more than 60 students have completed four years of secondary school through the OMP program and 4 have earned degrees or diplomas with our sponsorship.
+
+Already more than 60 students have completed four years of secondary school through the OMP program and 4 have earned degrees or diplomas with our sponsorship.
+
