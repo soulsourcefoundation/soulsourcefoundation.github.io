@@ -56,6 +56,7 @@ Tricia has been working in the nonprofit sector for 20 years, focused on address
 
 #### Aaron Swanton - Secretary
 
+<img class="bio" src="/assets/images/staff/thumb-aaron-cropped.jpg"/>
 
 For nearly a decade Aaron served as the Youth Program Manager at Blackstone Bicycle Works, a Woodlawn-based non-profit,where he taught young people entrepreneurial and mechanic skills in a safe and positive environment and in the context of a small business. Swanton is an advocate for youth and cycling; doing community outreach, education and pop-up bicycle repair events throughout Chicago neighborhoods  In 2004, Swanton worked as an English and creative writing instructor at  Pollsmoor Prison in Capetown, South Africa. Upon returning to the States, Swanton taught Art at San Miguel Gary Comer Junior High School in Chicago's Austin Community. The son of a Methodist minister and special education teacher, Swanton grew up in Ohio and moved to Chicago in 2000 to attend North Park University where he earned a BA in Africana Studies and studied under Dr. Theodora Ayot.  He has been a member of the Soul Source Foundation since 2015 and had the honor of visiting Kenya in January 2016.
 
