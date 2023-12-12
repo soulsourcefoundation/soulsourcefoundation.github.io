@@ -46,7 +46,7 @@ Currently, Felgone is training as an apprentice Women Empowerment trainer since 
 
 ### US Board Members
 
-#### Tricia Pushkar
+#### Tricia Puskar
 
 <img class="bio" src="/assets/images/staff/pushkar.jpg"/>
 
