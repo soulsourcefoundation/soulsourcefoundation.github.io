@@ -52,6 +52,8 @@ Currently, Felgone is training as an apprentice Women Empowerment trainer since 
 
 Tricia has been working in the nonprofit sector for 20 years, focused on addressing the root causes of poverty and injustice locally and globally. Most recently, Tricia spent 10 years growing fundraising efforts at World Bicycle Relief to provide bicycle transportation in rural communities in Africa and Colombia. Prior to that, Tricia led advocacy and outreach campaigns for Save the Children focused on increasing US investments in global maternal and child health programs. Tricia has lived and worked in Ghana, and has spent significant time in Western Kenya, but hasn't been to Rusinga yet. In her spare time, Tricia loves supporting progressive political campaigns in Chicago, riding her bike, cooking, and hanging with her kiddo. 
 
+<hr class="clear"/>
+
 #### Aaron Swanton - Secretary
 
 
