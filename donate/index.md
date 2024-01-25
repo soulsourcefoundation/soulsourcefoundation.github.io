@@ -13,8 +13,6 @@ To donate online using PayPal <a href="https://www.paypal.com/cgi-bin/webscr?cmd
 
 To donate online using via GiveMN <a href="https://www.givemn.org/organization/Soul-Source-Foundation" target="blank"> click here<i aria-hidden="true"></i>.
   
-To donate online using Square <a href="https://checkout.square.site/pay/191fc86db2f649ff8eabfc0294b7e63f" target="blank">click here <i class="fa fa-square" aria-hidden="true"></i>.
-  
 Or you can do it via mail to the next address:<br/>
 Soul Source Foundation<br/>
 P.O. Box 7635<br/>
