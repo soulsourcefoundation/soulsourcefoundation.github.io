@@ -46,6 +46,12 @@ Currently, Felgone is training as an apprentice Women Empowerment trainer since 
 
 ### US Board Members
 
+#### Betsy Zacks
+
+Betsy completed her Bachelors of Science in Business at Ohio University and worked for several years in marketing. She then followed up with a Masters of Science in Education at Northwestern University after which she taught in Chicago Public Schools for five years with a predominantly English Language Learner population. Since then she has worked in intervention support and academic coaching as well as various other educational roles. She is passionate about helping others, baking, and playing volleyball. She currently lives in Columbus, Ohio with her three children, husband and dog, Ella.
+
+<hr class="clear"/>
+
 #### Tricia Puskar
 
 <img class="bio" src="/assets/images/staff/pushkar.jpg"/>
